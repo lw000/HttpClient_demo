@@ -43,7 +43,6 @@
 							<tool command="g++ -std=c++0x" id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.893146173" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug">
 								<option id="gnu.cpp.link.option.userobjs.1309835831" name="Other objects" superClass="gnu.cpp.link.option.userobjs" useByScannerDiscovery="false" valueType="userObjs">
 									<listOptionValue builtIn="false" value="/usr/local/lib/libcurl.so"/>
-									<listOptionValue builtIn="false" value="/usr/local/lib/liblog4z.a"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/http_client_curl/Debug/libhttp_client_curl.a}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.795573274" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
